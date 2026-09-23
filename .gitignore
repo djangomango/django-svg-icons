@@ -1,0 +1,12 @@
+*.py[cod]
+__pycache__/
+*.egg-info/
+dist/
+build/
+.idea
+venv/
+iconify/
+
+# Local developer tools and private runners
+local/
+scripts/local/
